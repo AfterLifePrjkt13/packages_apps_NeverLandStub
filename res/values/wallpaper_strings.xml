@@ -15,6 +15,25 @@
     limitations under the License.
 -->
 <resources>
+    <string name="category_default">Default Wallpaper</string>
+    <string name="wallpaper_default_wallpaper">Default Wallpaper</string>
+	<string name="category_nvrlnd">NeverLands</string>
+    <string name="author_jetbrains">by AfterLife</string>
+    <string name="wallpaper_nvrlnd_a">NeverLand Wall 1</string>
+    <string name="wallpaper_nvrlnd_b">NeverLand Wall 2</string>
+    <string name="wallpaper_nvrlnd_c">NeverLand Wall 3</string>
+    <string name="wallpaper_nvrlnd_d">NeverLand Wall 4</string>
+    <string name="wallpaper_nvrlnd_e">NeverLand Wall 5</string>
+    <string name="wallpaper_nvrlnd_f">NeverLand Wall 6</string>
+    <string name="wallpaper_nvrlnd_g">NeverLand Wall 7</string>
+    <string name="wallpaper_nvrlnd_h">NeverLand Wall 8</string>
+    <string name="wallpaper_nvrlnd_i">NeverLand Wall 9</string>
+    <string name="wallpaper_nvrlnd_j">NeverLand Wall 10</string>
+    <string name="wallpaper_nvrlnd_k">NeverLand Wall 11</string>
+    <string name="wallpaper_nvrlnd_l">NeverLand Wall 12</string>
+    <string name="wallpaper_nvrlnd_m">NeverLand Wall 13</string>
+    <string name="wallpaper_nvrlnd_n">NeverLand Wall 14</string>
+    <string name="wallpaper_nvrlnd_o">NeverLand Wall 15</string>
     <string name="category_space">Space</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>

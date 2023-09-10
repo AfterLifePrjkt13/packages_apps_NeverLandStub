@@ -1,4 +1,66 @@
 {
+    "Default": {
+		"author": "AfterLife",
+		"featured": "default_wallpaper",
+		"wallpapers": {
+            "Default Wallpaper": {
+				"1": ""
+			}
+        }
+    },
+
+	"NeverLands": {
+		"author": "AfterLife",
+		"featured": "nvrlnd_g",
+		"wallpapers": {
+			"NeverLand Wall 1": {
+				"1": ""
+			},
+			"NeverLand Wall 2": {
+				"1": ""
+			},
+			"NeverLand Wall 3": {
+				"1": ""
+			},
+			"NeverLand Wall 4": {
+				"1": ""
+			},
+			"NeverLand Wall 5": {
+				"1": ""
+			},
+			"NeverLand Wall 6": {
+				"1": ""
+			},
+			"NeverLand Wall 7": {
+				"1": ""
+			},
+			"NeverLand Wall 8": {
+				"1": ""
+			},
+            "NeverLand Wall 9": {
+				"1": ""
+			},
+            "NeverLand Wall 10": {
+				"1": ""
+			},
+            "NeverLand Wall 11": {
+				"1": ""
+			},
+            "NeverLand Wall 12": {
+				"1": ""
+			},
+            "NeverLand Wall 13": {
+				"1": ""
+			},
+            "NeverLand Wall 14": {
+				"1": ""
+			},
+            "NeverLand Wall 15": {
+				"1": ""
+			}
+		}
+	},
+
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",
